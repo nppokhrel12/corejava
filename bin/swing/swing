@@ -1,0 +1,10 @@
+to create ui/gui or frontend for desktop application
+steps 
+1. create it (object )
+ eg for button 
+ JButton jb=new JButton()
+2. configure it (set size , location , font , color , etc )
+3. add it to container 
+ eg container : jframe , jpanel, jdesktoppane 
+4. Action 
+ determines click garepaxi k hune  plugin 

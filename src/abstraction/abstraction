@@ -1,0 +1,23 @@
+abstraction
+process of hiding implementation details in the program is abstraction 
+to achieve abstraction we have to use 
+
+abstract class and  -> class which contain abstract and non abstract methods abs method -> mehtod which dont have body or implementation details 
+eg. abstract void add();
+we cannot create object of abstract class 
+also know as level of abstraction (0-100)
+variable allowed 
+
+abstract class class_name{
+//abstract methods and non abstract method
+//non abstract methods
+}  
+
+interface -> same as class which contains public abstract methods and public statinc final varibales .
+we cant create objects of interface 
+also known ads 100 % abstraction 
+syntax 
+interface interface-name {
+    //no need to write abstract
+     //public abstract methods 
+}
