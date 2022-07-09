@@ -2,3 +2,26 @@ class
 normalization
 agragation
 euta class laai aarko class maa variable ko roop maa use garne 
+
+
+Spring 
+1. spring core 
+2. spring mvc
+3.spring boot //currently used 
+
+//with 
+#hibernate 
+#Maven 
+#Log4j
+#Spring Data Jpa 
+#Thymeleaf as view template like jsp
+#Bootstrap in front , etc
+
+
+Spring Core 
+------------
+#Bean/object  -
+#Dependency injection .IOC inversion of control
+a.Constructor injection 
+b. setter injection 
+ 
